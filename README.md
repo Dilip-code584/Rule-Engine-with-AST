@@ -26,13 +26,17 @@ Consider the rule:
 (age > 30 AND department = 'Sales') OR (age < 25 AND department = 'Marketing')
 This would generate an AST like this:
 
-shell
-Copy code
+Shell
+Code
         OR
        /  \
      AND  AND
     /   \    /   \
+
+
  age>30 dept='Sales' age<25 dept='Marketing'
+
+
 The system evaluates these rules by recursively checking each condition from the AST and returns True if the user data matches the rule, False otherwise.
 
 🖥️ Tech Stack
