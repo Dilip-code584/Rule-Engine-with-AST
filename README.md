@@ -106,7 +106,7 @@ pip install flask
 
 Clone the repository:
 
-git clone [https://github.com/yourusername/rule-engine-ast.git](https://github.com/Dilip-code584/Rule-Engine-with-AST.git)
+git clone (https://github.com/Dilip-code584/Rule-Engine-with-AST.git)]
 
 cd rule-engine-ast
 
