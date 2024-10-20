@@ -29,8 +29,11 @@ This would generate an AST like this:
 Shell
 Code
         OR
+
        /  \
+
      AND  AND
+
     /   \    /   \
 
 
