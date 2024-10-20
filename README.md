@@ -106,13 +106,15 @@ pip install flask
 
 Clone the repository:
 
-git clone (https://github.com/Dilip-code584/Rule-Engine-with-AST.git)]
+git clone https://github.com/Dilip-code584/Rule-Engine-with-AST.git
 
 cd rule-engine-ast
 
 Install dependencies:
+Flask
+Python3 
 
-pip install -r requirements.txt
+
 Run the application:
 python3 app.py 
 or just 
@@ -141,7 +143,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 For any questions or feedback, feel free to contact:
 
 Email: dilipsagarm@gmail.com
-GitHub: [github.com/dilipsagar](https://github.com/Dilip-code584)
+GitHub: (https://github.com/Dilip-code584)
 
 
 
