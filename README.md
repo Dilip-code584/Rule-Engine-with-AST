@@ -1,4 +1,8 @@
 3-Tier Rule Engine Application
+
+https://github.com/user-attachments/assets/a90558c3-4d56-4d94-994c-feb03f467645
+
+
 🚀 Overview
 This 3-tier rule engine application enables dynamic rule creation, evaluation, and modification using Abstract Syntax Trees (AST). The system is designed to determine user eligibility based on attributes such as age, department, income, and experience, by parsing conditional logic into a tree structure. It provides an intuitive UI to allow rule input and evaluation, with a Flask backend handling rule creation and evaluation.
 
@@ -133,10 +137,6 @@ For any questions or feedback, feel free to contact:
 
 Email: dilipsagarm@gmail.com
 GitHub: [github.com/dilipsagar](https://github.com/Dilip-code584)
-
-
-
-https://github.com/user-attachments/assets/a90558c3-4d56-4d94-994c-feb03f467645
 
 
 
