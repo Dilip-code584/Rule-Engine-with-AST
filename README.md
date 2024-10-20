@@ -34,7 +34,7 @@ Code
 
      AND  AND
 
-    /   \    /   \
+    /   \ /   \
 
 
  age>30 dept='Sales' age<25 dept='Marketing'
